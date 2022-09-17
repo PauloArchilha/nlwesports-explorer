@@ -122,6 +122,22 @@ section ul li:hover {
     border: 1px solid #443e54;
 }
 
+.bi-github,
+.bi-instagram,
+.bi-steam {
+    transition: fill .3s;
+    height: 24px;
+    width: 24px;
+    fill: #A1A1AA;
+}
+
+.bi-github:hover,
+.bi-instagram:hover,
+.bi-steam:hover {
+    fill: #9572FC;
+}
+
+
 /*animation*/
 
 
