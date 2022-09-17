@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://pauloarchilha.github.io/nlw)
+[🔗 Clique aqui para acessar](https://pauloarchilha.github.io/nlwesports-explorer)
 
 ## 🧑‍💻 Tecnologias
 
