@@ -10,6 +10,7 @@ Projeto construido do evento Next Level Week da Rocketseat.
 
 ## 🧑‍💻 Tecnologias
 
+- PYTHON
 - HTML
 - CSS
 - Git e Github
